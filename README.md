@@ -84,6 +84,6 @@ Stock price predictions are not financial advice.
 
 ## 👤 Author
 **Taha Saqib**  
-Data Science Student | Machine Learning & Deep Learning Enthusiast
+Data Scientist | Machine Learning & Deep Learning Enthusiast
 
 
